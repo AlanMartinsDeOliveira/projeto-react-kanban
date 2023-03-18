@@ -1,0 +1,8 @@
+.navbar {
+  display: flex;
+  background-color: #042940;
+  padding: 10px;
+  font-weight: bolder;
+  color: #fff;
+  box-shadow: 0 4px 18px #000;
+}
